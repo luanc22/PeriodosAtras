@@ -1,7 +1,7 @@
 ﻿
 namespace PeriodosAtras.ConsoleApp.ModuloData
 {
-    public enum TipoDeData
+    public enum TipoDeDataEnum
     {
         Ano,
         Mes,
